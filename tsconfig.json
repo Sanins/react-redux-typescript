@@ -22,8 +22,9 @@
   },
   "include": [
     "src"
-  ],
+, "setupTests.ts", "redux", "components", "pages"  ],
   "exclude": [
     "node_modules"
   ]
 }
+
