@@ -1,9 +1,9 @@
-// import styles from './layout.module.css'
+import styles from './navigation.module.scss';
 
 export const Navigation = () => {
   return (
     <>
-      <div>
+      <div className={styles.navigation}>
         <ul>
           <li>Home</li>
           <li>About</li>
